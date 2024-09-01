@@ -1,8 +1,8 @@
-Datos_Basicos={"Nombre": "Kevin Alexander",
-               "Apellido":"Cruz",
-               "DUI":"066690203-2",
-               "Fecha_Nacimiento":"20/04/2004",
-               "Lugar_Nacimiento": "Sivar Land",
+Datos_Basicos={"Nombre": "Elvin Romero",
+               "Apellido":"Romero",
+               "DUI":"06696060-8",
+               "Fecha_Nacimiento":"21/02/2004",
+               "Lugar_Nacimiento": "San Miguel",
                "Nacionalidad":"Salvadoreño",
                "Estado_Civil":"Negativo"}
 print("\n Detalles del Diccionario")
